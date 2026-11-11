@@ -1,0 +1,4 @@
+Analysts observed beaconing to evil-example[.]com and 203.0.113.45.
+The dropper was fetched from hxxp://malware-example[.]net/payload.exe
+SHA256: 275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f
+Contact: phisher@bad-example.org
